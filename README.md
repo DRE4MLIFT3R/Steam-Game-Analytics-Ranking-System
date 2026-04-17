@@ -19,10 +19,10 @@ A complete web-based analytics platform for Steam games that tracks live player 
 | 1  | Project Code                                | [View](https://github.com/DRE4MLIFT3R/Steam-Game-Analytics-Ranking-System) |
 | 2  | Project Report                              | [View](https://docs.google.com/document/d/1231QnTWVkzpvcfz_1pDqgghPtIQb3nRs/edit?usp=drive_link&ouid=104906463113626496914&rtpof=true&sd=true) |
 | 3  | Final PPT                                   | [View](https://docs.google.com/presentation/d/1f6Y9YrD5tokot5gJBlKiPNybsPv72rRY/edit?usp=drive_link&ouid=104906463113626496914&rtpof=true&sd=true) |
-| 4  | RA2411030030072_Certificate                 | [View](#) |
-| 5  | RA2411030030073_Certificate                 | [View](#) |
-| 6  | RA2411030030072_CourseReport                | [View](#) |
-| 7  | RA2411030030073_CourseReport                | [View](#) |
+| 4  | RA2411030030072_Certificate                 | [View](https://drive.google.com/file/d/1egcH78YBY9aPNuoucpu6rL7B-S1dKHx0/view?usp=drive_link) |
+| 5  | RA2411030030073_Certificate                 | [View](https://drive.google.com/file/d/1xPBdS4r6PODkiqhOfVN8Ku7Dy6Es2VbV/view?usp=drive_link) |
+| 6  | RA2411030030072_CourseReport                | [View](https://drive.google.com/file/d/1SuzqCgcdmS0Eyy-G5BPZugVQM0kFL83O/view?usp=drive_link) |
+| 7  | RA2411030030073_CourseReport                | [View](https://drive.google.com/file/d/1xoGNe2zZcOxTaMIdTO0mhERm2xCdM6wQ/view?usp=drive_link) |
 
 ## 📋 Table of Contents
 
