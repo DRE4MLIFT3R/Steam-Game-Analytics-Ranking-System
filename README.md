@@ -57,6 +57,13 @@ A complete web-based analytics platform for Steam games that tracks live player 
 - Notifications system (basic)
 - Logout functionality
 
+### 💻 Installation
+- Step 1: Clone the Repository
+    Bashgit clone https://github.com/divykumar0707-bot/Fit-Track-DBMS.git
+    cd Fit-Track-DBMS
+- Step 2: Install Dependencies
+    Bashpip install flask
+
 ## 🛠 Tech Stack
 
 ### Backend
