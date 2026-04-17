@@ -57,13 +57,27 @@ A complete web-based analytics platform for Steam games that tracks live player 
 - Notifications system (basic)
 - Logout functionality
 
-### 💻 Installation
-- Step 1: Clone the Repository
-    Bashgit clone https://github.com/divykumar0707-bot/Fit-Track-DBMS.git
-    cd Fit-Track-DBMS
-- Step 2: Install Dependencies
-    Bashpip install flask
+💻 Installation
 
+Clone the repository:Bashgit clone https://github.com/yourusername/steam-game-analytics.git
+cd steam-game-analytics
+Import the database:
+Create a new database named steam_analytics
+Import the SQL file (if provided) or run the schema from config/database.php
+
+Configure database:
+Edit config/database.php with your MySQL credentials
+
+
+🚀 Running the Application
+
+Start your local server (XAMPP / WAMP)
+Place the project in htdocs folder
+Open your browser and go to:texthttp://localhost/steam-game-analytics/login.php
+
+Default Access:
+
+Login using your registered admin account
 ## 🛠 Tech Stack
 
 ### Backend
