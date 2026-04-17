@@ -16,7 +16,7 @@ A complete web-based analytics platform for Steam games that tracks live player 
 
 | Sr | Description                                  | Link |
 |----|----------------------------------------------|------|
-| 1  | Project Code                                | [View](#) |
+| 1  | Project Code                                | [View](https://github.com/DRE4MLIFT3R/Steam-Game-Analytics-Ranking-System) |
 | 2  | Project Report                              | [View](#) |
 | 3  | Final PPT                                   | [View](#) |
 | 4  | RA2411030030072_Certificate                 | [View](#) |
