@@ -59,7 +59,7 @@ A complete web-based analytics platform for Steam games that tracks live player 
 
 💻 Installation
 
-Clone the repository:Bashgit clone https://github.com/yourusername/steam-game-analytics.git
+Clone the repository:Bashgit clone https://github.com/DRE4MLIFT3R/Steam-Game-Analytics-Ranking-System
 cd steam-game-analytics
 Import the database:
 Create a new database named steam_analytics
